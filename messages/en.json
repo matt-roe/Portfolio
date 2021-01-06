@@ -1,14 +1,14 @@
 {
   "navbar": {
       "Home": "Home",
-      "Products": "Products",
-      "My Skills": "My Skills",
+      "Products": "Projects",
+      "My Skills": "Skills",
       "Contact Me": "Contact Me",
       "config": "Configuration"
   },
   "landing": {
-      "titulo": "Hi, I'm Federico Varela",
-      "subtitulo": "I'm an amateur, full-stack web developer and electrical engineering student",
+      "titulo": "Matthew Roe",
+      "subtitulo": "I am a Power Platform Developer and IT Field Engineer",
       "call-to-action": "MY PROJECTS",
       "call-to-action-secondary": "MESSAGE ME"
   },

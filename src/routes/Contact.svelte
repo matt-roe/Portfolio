@@ -1,6 +1,6 @@
 <script>
   import { _ } from "svelte-i18n";
-  const endpoint = "https://formspree.io/xbjzrjzv";
+  const endpoint = "https://formspree.io/f/xqkgwarr";
   const formData = {
     name: "",
     _replyto: "",
@@ -156,8 +156,8 @@
 <h1>{$_('contact-me.titulo')}</h1>
 <p>
   {$_('contact-me.subtitulo')}
-  <a class="email" href="mailto:federicovr02@gmail.com ">
-    federicovr02@gmail.com
+  <a class="email" href="mailto:m.roe7@gmail.com ">
+    mr.roe7@gmail.com
   </a>
 </p>
 <div>
@@ -169,7 +169,7 @@
       bind:value={formData.name} />
     <input
       type="email"
-      name="_replyto"
+      name="reply_to"
       placeholder={$_('contact-me.email')}
       bind:value={formData._replyto} />
     <textarea
